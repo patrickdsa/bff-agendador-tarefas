@@ -1,4 +1,4 @@
-package com.patrick.bff_agendador_tarefas.insfrastructure.client.security;
+package com.patrick.bff_agendador_tarefas.insfrastructure.security;
 
 import io.swagger.v3.oas.annotations.enums.SecuritySchemeType;
 import io.swagger.v3.oas.annotations.security.SecurityScheme;
